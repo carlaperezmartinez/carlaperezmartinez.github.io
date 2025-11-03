@@ -1,22 +1,23 @@
 ---
 ---
 
-# carlaperezmartinez's Website
+# Welcome to the FABILIS Lab
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the FABILIS (Fabrication of Ionic Liquid Ion Sources) lab at UCL! We are focused on advancing the technology behind ionic liquid ion sources (ILIS) for a wide range of applications in science and industry.
 
-{% include section.html %}
+## Join Us
+Interested in working with us? Visit our [Join Us](join) page for more details.
 
-## Highlights
+## About Us
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A really nice brief description of our research and what it is for.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +35,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have published a number of papers in leading journals.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +51,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="publications"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
@@ -59,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our Principal Investigator, Dr Carla Perez-Martinez, and our other team members.
 
 {%
   include button.html
