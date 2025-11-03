@@ -1,1 +1,1 @@
-Sitemap: https://carlaperezmartinez.github.io/lab/sitemap.xml
+Sitemap: https://carlaperezmartinez.github.io/sitemap.xml
