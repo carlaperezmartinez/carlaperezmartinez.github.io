@@ -1,47 +1,33 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Characterisation
+  subtitle: Interaction with different substrate materials
   group: featured
-  image: images/photo.jpg
+  image: images/research/research_characterisation.webp
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Explore the range of ion species produced by ILIS and their interaction with different substrate materials.
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: High‑throughput material removal
+  subtitle: Multiplex arrays of ILIS
   group: featured
-  image: images/photo.jpg
+  image: images/research/research_materialremoval.webp
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Investigate multiplex arrays of ILIS for scalable processing and faster material removal.
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Focused Ion Beams (FIB) based on ILIS
+  subtitle: Focusing column for ILIS beams
+  image: images/research/research_fib.webp
+  description: Design and construct a bespoke focusing column for ILIS beams and implement it in an existing FIB system.
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Deposition
+  subtitle: For studying ionic liquid interfaces and surface phenomena
+  image: images/research/research_deposition.webp
+  description: At sufficiently low beam energy, deposit thin films of ionic liquids to study ionic liquid interfaces and surface phenomena.
   tags:
-    - software
+    - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
