@@ -11,6 +11,9 @@
       style="
         width: {{ include.width | default: "auto" }};
         max-height: {{ include.height | default: "unset" }};
+        {%if include.margin %}
+          border: {{ include.margin }} solid white;
+        {% endif %}
       "
       alt="{{ include.caption | default: "figure image" | regex_strip }}"
       loading="lazy"
