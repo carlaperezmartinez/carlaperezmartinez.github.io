@@ -5,6 +5,6 @@
 
   # carlaperezmartinez's Website
 
-  Visit **[carlaperezmartinez.github.io/lab](https://carlaperezmartinez.github.io/lab)** 🚀
+  Visit **[carlaperezmartinez.github.io](https://carlaperezmartinez.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
