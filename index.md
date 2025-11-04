@@ -75,7 +75,7 @@ Meet our Principal Investigator, Dr Carla Perez-Martinez, and our other team mem
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/OurTeamThumbnail.jpg"
   link="team"
   title="Our Team"
   text=text
