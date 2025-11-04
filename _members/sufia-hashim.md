@@ -1,7 +1,7 @@
 ---
 name: Sufia Hashim
 role: alumni  
-image: /images/team/sufia-hashim.jpg
+image: /images/team/sufia-hashim.jpeg
 ---
 
 
