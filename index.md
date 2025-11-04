@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the FABILIS Lab
+# NEW TECHNOLOGIES FOR NANOMANUFACTURING
 
 Welcome to the FABILIS (Fabrication of Ionic Liquid Ion Sources) lab at UCL! We are focused on advancing the technology behind ionic liquid ion sources (ILIS) for a wide range of applications in science and industry.
 
@@ -27,7 +27,7 @@ A really nice brief description of our research and what it is for.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ResearchThumbnail.jpg"
   link="research"
   title="Our Research"
   text=text
