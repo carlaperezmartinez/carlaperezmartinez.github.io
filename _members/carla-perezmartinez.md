@@ -1,7 +1,7 @@
 ---
 name: Dr Carla Perez‑Martinez  
 role: principal-investigator 
-image: /images/team/carla-perezmartinez.webp
+image: /images/team/carla-perezmartinez.jpg
 links:
   orcid: 0000-0002-5574-0319
   email: carla.perezmartinez@ucl.ac.uk  
