@@ -50,7 +50,7 @@ We have published a number of papers in leading journals.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/PublicationsThumbnail.png"
   link="publications"
   title="Our Publications"
   flip=true
