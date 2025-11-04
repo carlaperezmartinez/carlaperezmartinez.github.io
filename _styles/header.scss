@@ -60,11 +60,11 @@ header a {
 
 .title {
   font-size: var(--large);
+  font-weight: var(--semi-bold);
 }
 
 .subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  font-weight: var(--regular);
 }
 
 .nav-toggle {
