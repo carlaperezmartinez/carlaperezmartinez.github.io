@@ -159,7 +159,7 @@
   orcid: 0000-0002-5574-0319
   plugin: sources.py
   file: sources.yaml
-  image: images/papers/JSVTB2012.png
+  image: images/papers/JVSTB2012.png
 - id: doi:10.1016/j.mee.2010.11.042
   title: Ionic liquid ion sources as a unique and versatile option in FIB applications
   authors:
