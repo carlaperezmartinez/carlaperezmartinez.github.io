@@ -87,7 +87,7 @@ Want to join? Browse our open positions!
 
 {%
   include button.html
-  link="team"
+  link="join"
   text="Join"
   icon="fa-solid fa-arrow-right"
   flip=true
