@@ -27,6 +27,3 @@ We are based at the London Centre for Nanotechnology.
 
 If you are interested in joining out team, please go to our [Join Us](join) page.
 
-{% include section.html %}
-
-{% include grid.html style="square" content=content %}
