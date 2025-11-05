@@ -2,12 +2,14 @@
   image: /images/papers/FilteringTheBeamFromAnIonicLiquidIonSource2024.webp
  
 - id: doi:10.1016/j.ultramic.2024.114024
- 
+  image: /images/papers/Ultramicroscopy2024.webp
+  
 - id: doi:10.1088/1361-648X/ac03d3
   image: /images/papers/ControllingAdhesionUsingACFieldsAcrossFluidFilms2021.webp
 
 - id: doi:10.1021/acs.jpclett.0c03718
-
+  image: /images/papers/WaterInSaltElectrolytes2021.jpeg
+  
 - id: doi:10.1021/acs.langmuir.9b01415
 
 - id: doi:10.1039/c9sm00487d
