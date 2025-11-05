@@ -1,10 +1,10 @@
 ---
-title: Early Career Award
+title: Early Career Award at EIPBN
+image: /images/news/EIPBNEarlyCareerAward.jpg
 author: carla-perezmartinez
 tags:
-  - biology
-  - medicine
-  - big data
+  - EIPBN
+  - Award
 ---
 
 Carla was recognised with the 2025 Early Career Award of the International Conference on Electron, Ion, Photon Beam and Nanofabrication Technology in Savannah, GA.
