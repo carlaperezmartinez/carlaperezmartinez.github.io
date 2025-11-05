@@ -30,6 +30,7 @@
 - id: doi:10.1016/j.mee.2010.11.042
 
 - id: doi:10.1116/1.4745187
+  image: images/papers/JSVTB2012.png
 
 - id: doi:10.1116/1.3432125
   image: /images/papers/DevelopmentOfIonSourcesFromIonicLiquidsForMicrofabrication2010.webp
