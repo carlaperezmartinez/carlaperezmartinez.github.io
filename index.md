@@ -12,7 +12,7 @@ Interested in working with us? Visit our [Join Us](join) page for more details.
 
 {% capture text %}
 
-A really nice brief description of our research and what it is for.
+Learn the fundamentals of our research and what it is good for.
 
 {%
   include button.html
@@ -78,5 +78,28 @@ Meet our Principal Investigator, Dr Carla Perez-Martinez, and our other team mem
   image="images/OurTeamThumbnail.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+{% capture text %}
+
+Want to join? Browse our open positions!
+
+{%
+  include button.html
+  link="team"
+  text="Join"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/JoinUsThumbnail.jpg"
+  link="join"
+  title="Join"
   text=text
 %}
