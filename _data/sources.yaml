@@ -11,13 +11,17 @@
   image: /images/papers/WaterInSaltElectrolytes2021.jpeg
   
 - id: doi:10.1021/acs.langmuir.9b01415
-
+  image: /images/papers/Langmuir2019.png
+  
 - id: doi:10.1039/c9sm00487d
+  image: /images/papers/SoftMatterCholesteric.png
 
 - id: doi:10.1039/c9sm00143c
-
+  image: /images/papers/SoftMatterEfield2019.png 
+  
 - id: doi:10.1103/PhysRevLett.119.026002
-
+  image: /images/papers/PRL2017.png
+  
 - id: doi:10.1039/c6fd00250a
 
 - id: doi:10.1063/1.4927481
