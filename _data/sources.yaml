@@ -4,7 +4,7 @@
 - id: doi:10.1016/j.ultramic.2024.114024
   image: /images/papers/Ultramicroscopy2024.webp
   
-- id: doi:10.1088/1361-648X/ac03d3
+- id: doi:10.1088/1361-648x/ac03d3
   image: /images/papers/ControllingAdhesionUsingACFieldsAcrossFluidFilms2021.webp
 
 - id: doi:10.1021/acs.jpclett.0c03718
@@ -22,7 +22,7 @@
 - id: doi:10.1103/PhysRevLett.119.026002
   image: /images/papers/PRL2017.png
   
-- id: doi:10.1039/c6fd00250a
+- id: doi:10.1039/C6FD00250A
 
 - id: doi:10.1063/1.4927481
   image: /images/papers/IonFieldEvaporationFromIonicLiquidsInfusingCarbonXerogelMicrotips.webp
@@ -34,7 +34,7 @@
 - id: doi:10.1016/j.mee.2010.11.042
 
 - id: doi:10.1116/1.4745187
-  image: images/papers/JVSTB2012.png
+  image: /images/papers/JVSTB2012.png
 
 - id: doi:10.1116/1.3432125
   image: /images/papers/DevelopmentOfIonSourcesFromIonicLiquidsForMicrofabrication2010.webp

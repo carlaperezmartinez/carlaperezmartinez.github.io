@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Early Career Award
+author: carla-perezmartinez
 tags:
   - biology
   - medicine
   - big data
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Carla was recognised with the 2025 Early Career Award of the International Conference on Electron, Ion, Photon Beam and Nanofabrication Technology in Savannah, GA.
