@@ -29,26 +29,6 @@ include figure.html
   margin="5px"
 %}
 
-{%
-  include card.html
-  image="/images/research/research_ionicliquid.webp"
-  title="Ionic Liquids"
-  subtitle="A cool card"
-  description="**Ionic liquids** are room temperature molten salts, or mixtures of cations or anions that are liquid at room temperature with no intervening solvent. You can think of it as a plasma in a bottle. The cations are usually large organic molecules, while the anions may be complex organic or simple inorganic ions. Ionic liquids have attracted much interest in energy storage and electrochemical synthesis, thanks to their stability, non-volatility, appreciable electrical conductivity, large electrochemical windows, and their suitability as solvents. Example of an ionic liquid, 1-ethyl-3-methylimidazolium tetrafluoroborate."
-%}
-
-
-In ILIS, **a micro‑tip emitter is covered with ionic liquid** and biased to a high voltage with respect to a downstream metallic extractor. The electric field causes the liquid to deform into a sharp meniscus. At the apex of the meniscus, the electric field is high enough to trigger evaporation of ions from the liquid. **The resulting beam can be used to treat materials.**
-
-{%
-include figure.html
-  image="/images/research/research_ilisoverview.webp"
-  caption="Basic ILIS configuration, and scanning electron micrographs of an ILIS emitter microtip made of porous carbon xerogel."
-  width="300px"
-%}
-
-
-
 ---
 
 ### Why ILIS for nanomanufacturing?
@@ -74,7 +54,7 @@ include figure.html
 include figure.html
   image="/images/research/research_fourareas.webp"
   caption="Example of an ionic liquid, 1-ethyl-3-methylimidazolium tetrafluoroborate."
-  width="100%"
+  width="730px"
 %}
 
 1. **Characterisation:** Explore the range of ion species produced by ILIS and their interaction with different substrate materials.

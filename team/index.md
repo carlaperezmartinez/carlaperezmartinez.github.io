@@ -29,12 +29,4 @@ If you are interested in joining out team, please go to our [Join Us](join) page
 
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
 {% include grid.html style="square" content=content %}

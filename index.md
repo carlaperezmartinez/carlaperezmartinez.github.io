@@ -12,7 +12,7 @@ Interested in working with us? Visit our [Join Us](join) page for more details.
 
 {% capture text %}
 
-Learn the fundamentals of our research and what it is good for.
+Learn about the fundamentals of our research and its uses.
 
 {%
   include button.html
@@ -101,5 +101,6 @@ Want to join? Browse our open positions!
   image="images/JoinUsThumbnail.jpg"
   link="join"
   title="Join"
+  flip=true
   text=text
 %}
