@@ -19,7 +19,6 @@ Learn about the fundamentals of our research and its uses.
   link="research"
   text="See our research"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 

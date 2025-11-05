@@ -23,7 +23,7 @@ We are based at the London Centre for Nanotechnology.
 ## Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 If you are interested in joining out team, please go to our [Join Us](join) page.
 
