@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Carla Perez-Martinez Research Laboratory
-subtitle: London Centre for Nanotechnology @ UCL
+subtitle: FABILIS- Fabrication with Ionic Liquid Ion Sources @ UCL
 description: Fabrication with Ionic Liquid Ion Sources
 header: images/background.jpg
 footer: images/background.jpg
@@ -11,7 +11,7 @@ links:
   email: carla.perezmartinez@ucl.ac.uk
   orcid: 0000-0002-5574-0319
   google-scholar: qwWzK3EAAAAJ
-  linkedin: caralaperezmartinez
+  linkedin: carlaperezmartinez
   youtube: watch?v=FYUOfOW3bk0
 
 ### jekyll settings
