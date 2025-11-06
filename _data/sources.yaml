@@ -14,7 +14,7 @@
   image: /images/papers/Langmuir2019.png
   
 - id: doi:10.1039/c9sm00487d
-  image: /images/papers/SoftMatterCholesteric.png
+  image: /images/papers/SoftMatterCholesteric2019.png
 
 - id: doi:10.1039/c9sm00143c
   image: /images/papers/SoftMatterEfield2019.png 
@@ -28,6 +28,7 @@
   image: /images/papers/IonFieldEvaporationFromIonicLiquidsInfusingCarbonXerogelMicrotips.webp
 
 - id: doi:10.1016/j.mee.2014.02.032
+  image: /images/papers/MEE2014.png
 
 - id: doi:10.1016/j.mee.2010.12.037
 
