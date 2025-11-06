@@ -12,10 +12,10 @@ We are always looking for talented and motivated individuals to join the FABILIS
 
 ## PhD Opportunities 
 
-### [UCL EPSRC Landscape Award (UELA)](https://www.ucl.ac.uk/prospective-students/scholarships/epsrc-landscape-award) — *New!*
+### [UCL EPSRC Landscape Award (UELA)](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/ucl-epsrc-landscape-award-uela-studentships) — *New!*
 **Fully funded for 4 years** (fees + enhanced stipend + additional research training and travel support).  
 Open to **Home & International applicants**.  
-➡️ **Our project:** *Building the future of chipmaking with smarter etching*  [Link to Project Description](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1675.html) 
+➡️ **Our project:** *Building the future of chipmaking with smarter etching*  [Link to Project Description](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1675.html)
 📅 **Application deadline:** *13:00 UK time, Monday 05-Jan-2026.*
 
 ---
