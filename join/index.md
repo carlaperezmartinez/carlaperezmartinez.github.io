@@ -56,5 +56,5 @@ External **studentships (usually fully funded)**  may arise from time to time.
 
 ## Postdoctoral Fellowship Opportunities
 
-Dr. Perez-Martinez is happy to advise and support interested candidates who wish to apply for postdoctoral fellowships. Please contact us well in advance the submission deadline to discuss possible research projects.
+Dr. Perez-Martinez is happy to advise and support interested candidates who wish to apply for postdoctoral fellowships (e.g. Royal Commission of 1851, Newton International Fellowship). Please contact us well in advance the submission deadline to discuss possible research projects and process logistics.
 
