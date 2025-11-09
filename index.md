@@ -3,7 +3,7 @@
 
 # NEW TECHNOLOGIES FOR NANOMANUFACTURING
 
-Welcome to the FABILIS (Fabrication with Ionic Liquid Ion Sources) lab! We are located in the London Centre for Nanotechnology at University College London. We are focused on advancing the technology behind ionic liquid ion sources (ILIS) for a wide range of applications in science and industry.
+Welcome to the FABILIS (Fabrication with Ionic Liquid Ion Sources) lab! Our work develops new technologies based on ionic liquids for treating materials at the nanoscale, with applications ranging from manufacturing microchips to inspecting biological samples. We are located in the London Centre for Nanotechnology at University College London. 
 
 ## Join Us
 Interested in working with us? Visit our [Join Us](join) page for more details.
