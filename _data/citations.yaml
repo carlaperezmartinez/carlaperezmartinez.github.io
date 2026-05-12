@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1088/1361-6463/ae4910
+  title: AC field driven interactions in concentrated electrolytes
+  authors:
+  - Carla S Perez-Martinez
+  - Timothy S Groves
+  - Marco Balabajew
+  - Christian D van Engers
+  - Nico Cousens
+  - Florian Hausen
+  - Alexander M Smith
+  - Susan Perkin
+  publisher: 'Journal of Physics D: Applied Physics'
+  date: '2026-03-09'
+  link: https://doi.org/hb3hwn
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1116/6.0004029
   title: Filtering the beam from an ionic liquid ion source
   authors:
