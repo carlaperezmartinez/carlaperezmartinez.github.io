@@ -1,6 +1,6 @@
 ---
 title: EIPBN 2026
-image: /images/news/EIPBN26.jpg
+image: /images/news/EIPBN26.jpeg
 author: carla-perezmartinez
 tags:
   - EIPBN
