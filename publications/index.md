@@ -13,7 +13,7 @@ nav:
 
 {% include citation.html lookup="Ion field-evaporation from ionic liquids infusing carbon xerogel microtips" style="rich" %}
 
-{% include citation.html lookup="Development of ion sources from ionic liquids for microfabrication" style="rich" %}
+{% include citation.html lookup="Filtering the beam from an ionic liquid ion source" style="rich" %}
 
 {% include section.html %}
 
