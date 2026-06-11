@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1063/5.0322936
+  title: Irradiation effects of filtered beams of ionic liquid ion sources on semiconductor
+    materials
+  authors:
+  - Alexander C. G. Storey
+  - Shaun Boodram
+  - Aydin Sabouri
+  - Carla Sofia Perez-Martinez
+  publisher: Journal of Applied Physics
+  date: '2026-05-13'
+  link: https://doi.org/hb7cgm
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1088/1361-6463/ae4910
   title: AC field driven interactions in concentrated electrolytes
   authors:
