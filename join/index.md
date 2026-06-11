@@ -24,7 +24,15 @@ Open to **Home Applicants Only**.
 
 This project involves both computational 🖥️ and experimental work 🔬, is multidisciplinary, and will start in September 2026. 
 
+---
 
+### [CDT in Quantum Computation and Quantum Communications (QC2)](https://www.ucl.ac.uk/quantum/centre-doctoral-training-quantum-technologies)
+**Fully funded** (fees + stipend).  
+Structure: **1 year taught courses + 3 years research.**  
+Open to **UK and international applicants**.  
+📍 Apply directly via the **CDT**.
+
+---
 ---
 
 ### 💡 Other Schemes 
