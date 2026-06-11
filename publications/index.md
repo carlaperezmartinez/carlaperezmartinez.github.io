@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Ion field-evaporation from ionic liquids infusing carbon xerogel microtips" style="rich" %}
+{% include citation.html lookup="Irradiation effects of filtered beams of ionic liquid ion sources on semiconductor materials" style="rich" %}
 
 {% include citation.html lookup="Filtering the beam from an ionic liquid ion source" style="rich" %}
 
