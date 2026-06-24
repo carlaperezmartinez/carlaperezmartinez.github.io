@@ -20,7 +20,10 @@ We are based at the London Centre for Nanotechnology.
 ## PhD Candidates
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
-## Alumni
+## PhD Alumni
+{% include list.html data="members" component="portrait" filter="role == 'phd alumni'" %}
+
+## Undergraduate Alumni
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
 
 {% include section.html dark=true %}
