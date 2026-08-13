@@ -25,8 +25,8 @@ Check CDT website for eligibility and funding options.
 ---
 
 ### [CDT in Photonic and Electronic Systems](https://www.pes-cdt.org/)
-**Fully funded** (fees + stipend).  
-Check CDT website for eligibility and funding options. 
+Structure: **1 year taught courses + 3 years research.**  
+Check CDT website for eligibility and funding options.
 📍 Apply directly via the **CDT**.
 
 ---
