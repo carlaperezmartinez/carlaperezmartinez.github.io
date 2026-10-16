@@ -1,5 +1,5 @@
 ---
-title: Early Career Award at EIPBN
+title: RMS FIB&Prep Meeting
 image: /images/news/RMSfibprep.jpg
 author: carla-perezmartinez
 tags:
