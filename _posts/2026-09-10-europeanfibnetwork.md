@@ -1,6 +1,6 @@
 ---
 title: FABILIS presentations at the European FIB Network
-image: /images/2026aydinfitfornano.jpg
+image: /images/news/2026aydinfitfornano.jpg
 author: carla-perezmartinez
 tags:
   - EU FIB Net
